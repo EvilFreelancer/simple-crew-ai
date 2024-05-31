@@ -1,0 +1,6 @@
+/.idea/
+/.env
+/db/
+jobposting-api
+__pycache__
+job_posting.md
